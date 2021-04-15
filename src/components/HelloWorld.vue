@@ -86,11 +86,6 @@ export default {
   props: {
     msg: String,
   },
-  created() {
-    debugger;
-    /* eslint-disable */
-    SimplyLazy().lazy('img');
-  },
 };
 </script>
 
