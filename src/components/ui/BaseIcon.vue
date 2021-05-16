@@ -17,7 +17,7 @@ export default {
       type: String,
       note: `
        The icon code that is the file name of the svg in the <code>/assets/icons</code> directory.
-       This component was inspired by: https://calebporzio.com/using-inline-svgs-in-vue-compoments
+       This component was inspired in part by: https://calebporzio.com/using-inline-svgs-in-vue-compoments
       `,
     },
     label: {
