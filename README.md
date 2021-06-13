@@ -1,4 +1,4 @@
-WIP - A personal website for Max Poshusta
+This is still very much a WIP - but will become personal website for Max Poshusta
 
 ## Project setup
 
