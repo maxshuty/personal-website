@@ -22,7 +22,8 @@ export default {
     },
     label: {
       type: String,
-      note: 'The accessibility aria-label value.',
+      note:
+        'The accessibility aria-label value. If not provided then set to aria-hidden="true".',
     },
     fileExtension: {
       type: String,
