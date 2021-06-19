@@ -1,11 +1,14 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <base-icon alt="Vue logo" :icon="logo" :fileExtension="png" />
   </div>
 </template>
 
 <script>
+import BaseIcon from '../components/ui/BaseIcon.vue';
+
 export default {
+  components: { BaseIcon },
   name: 'Home',
 };
 </script>
