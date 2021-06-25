@@ -1,7 +1,7 @@
 <template>
   <div
     class="v-icon icon"
-    v-html="require(`../../assets/icons/${this.icon}.${fileExtension}`)"
+    v-html="require(`../../assets/icons/${icon}.${fileExtension}`)"
     role="img"
     :aria-label="label"
     :aria-hidden="!label"
