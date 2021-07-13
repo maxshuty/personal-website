@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    Home
     <base-icon alt="Vue logo" icon="profile" />
   </div>
 </template>
