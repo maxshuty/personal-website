@@ -3,8 +3,8 @@ module.exports = {
     config.module
       .rule('svg')
       .test(/\.svg$/)
-      .use('svg-inline-loader')
-      .loader('svg-inline-loader')
+      .use('html-loader')
+      .loader('html-loader')
       .end();
   },
 };
