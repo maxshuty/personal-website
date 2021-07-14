@@ -2,7 +2,7 @@ This is still very much a WIP - but will become personal website.
 
 ## Naming conventions in project:
 
-All base components are to be named like: `Base{Name}`
+All base components are to be named like: `Base{Name}`.
 
 ## Project setup
 
