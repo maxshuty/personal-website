@@ -1,5 +1,7 @@
 This is still very much a WIP - but will become personal website.
 
+All base components are to be named like: `Base{Name}`
+
 ## Project setup
 
 ```
