@@ -19,5 +19,6 @@ export default {
   background-color: tomato;
   display: flex;
   flex-direction: column;
+  color: #ffffff;
 }
 </style>
