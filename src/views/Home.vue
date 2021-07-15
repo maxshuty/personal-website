@@ -18,5 +18,6 @@ export default {
 .home {
   background-color: tomato;
   display: flex;
+  flex-direction: column;
 }
 </style>
