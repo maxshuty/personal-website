@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <p class="home__section"></p>
+    <p class="home__section">Hi, I'm Max.</p>
   </div>
 </template>
 
