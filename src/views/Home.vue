@@ -16,7 +16,6 @@ export default {
 
 <style lang="scss" scoped>
 .home {
-  background-color: tomato;
   display: flex;
   flex-direction: column;
   color: #ffffff;
