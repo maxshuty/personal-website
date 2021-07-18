@@ -3,8 +3,6 @@
 </template>
 
 <script>
-import BaseIcon from '../components/ui/BaseIcon.vue';
-
 export default {
   name: 'Home',
 };
