@@ -1,8 +1,5 @@
 <template>
-  <div class="home">
-    Home
-    <base-icon alt="Vue logo" icon="profile" />
-  </div>
+  <div class="home">Home</div>
 </template>
 
 <script>
