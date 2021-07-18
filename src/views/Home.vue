@@ -6,7 +6,6 @@
 import BaseIcon from '../components/ui/BaseIcon.vue';
 
 export default {
-  components: { BaseIcon },
   name: 'Home',
 };
 </script>
