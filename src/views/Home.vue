@@ -12,6 +12,5 @@ export default {
 .home {
   display: flex;
   flex-direction: column;
-  color: #ffffff;
 }
 </style>
