@@ -5,6 +5,8 @@
 </template>
 
 <script>
+import { VueTyper } from 'vue-typer';
+
 export default {
   name: 'Home',
 };
