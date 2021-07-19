@@ -9,6 +9,9 @@ import { VueTyper } from 'vue-typer';
 
 export default {
   name: 'Home',
+  components: {
+    VueTyper,
+  },
 };
 </script>
 
