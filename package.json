@@ -12,6 +12,7 @@
     "svg-inline-loader": "^0.8.2",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
+    "vue-typer": "^1.2.0",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
