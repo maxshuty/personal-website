@@ -7,9 +7,7 @@
 <script>
 export default {
   name: 'Home',
-  components: {
-    VueTyper,
-  },
+  components: {},
 };
 </script>
 
