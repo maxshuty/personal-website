@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    <vue-typer text="test"></vue-typer>
     <h1>Hi, I'm Max.</h1>
   </div>
 </template>
