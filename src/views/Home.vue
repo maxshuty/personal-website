@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>Hi, I'm Max.</h1>
-    <div class="">
+    <div class="home__section">
       <p>Developer, tinkerer, and most of all - a father.</p>
     </div>
   </div>
