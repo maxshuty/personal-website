@@ -8,6 +8,8 @@
 </template>
 
 <script>
+import TypeIt from 'typeit';
+
 export default {
   name: 'Home',
 };
