@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Hi, I'm Max.</h1>
+    <h1 ref="pageTitle">Hi, I'm Max.</h1>
     <div class="home__section">
       <p>Developer, tinkerer, and most of all - a father.</p>
     </div>
@@ -12,7 +12,13 @@ import TypeIt from 'typeit';
 
 export default {
   name: 'Home',
-  created() {},
+  created() {
+    // eslint-disable-next-line no-new
+    new TypeIt(this.$refs.pageTitle, {
+      // eslint-disable-next-line quotes
+      strings: `Hi, I'm Max.`,
+    }).go();
+  },
 };
 </script>
 
