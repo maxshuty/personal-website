@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1 ref="pageTitle">Hi, I'm Max.</h1>
+    <h1 ref="pageTitle"></h1>
     <div class="home__section">
       <p>Developer, tinkerer, and most of all - a father.</p>
     </div>
@@ -16,7 +16,7 @@ export default {
     // eslint-disable-next-line no-new
     new TypeIt(this.$refs.pageTitle, {
       // eslint-disable-next-line quotes
-      strings: `test`,
+      strings: `Hi, I'm Max.`,
     }).go();
   },
 };
