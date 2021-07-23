@@ -12,6 +12,7 @@ import TypeIt from 'typeit';
 
 export default {
   name: 'Home',
+  created() {},
 };
 </script>
 
