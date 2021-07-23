@@ -16,7 +16,7 @@ export default {
     // eslint-disable-next-line no-new
     new TypeIt(this.$refs.pageTitle, {
       // eslint-disable-next-line quotes
-      strings: `Hi, I'm Max.`,
+      strings: `test`,
     }).go();
   },
 };
