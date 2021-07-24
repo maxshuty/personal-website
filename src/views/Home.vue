@@ -13,11 +13,11 @@ import TypeIt from 'typeit';
 export default {
   name: 'Home',
   mounted() {
-    // eslint-disable-next-line no-new
-    new TypeIt('#pageTitle', {
-      // eslint-disable-next-line quotes
-      strings: `Hi, I'm Max.`,
-    }).go();
+    new TypeIt('#pageTitle')
+      .type(`Hi, I'm Max.`)
+      .pause(1000)
+      .type('Developer, tinkerer, and most of all - a father.')
+      .go();
   },
 };
 </script>
