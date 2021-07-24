@@ -14,6 +14,7 @@ export default {
   name: 'Home',
   mounted() {
     new TypeIt('#pageTitle')
+      // eslint-disable-next-line quotes
       .type(`Hi, I'm Max.`)
       .pause(1000)
       .type('Developer, tinkerer, and most of all - a father.')
