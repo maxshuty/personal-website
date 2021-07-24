@@ -12,7 +12,7 @@ import TypeIt from 'typeit';
 
 export default {
   name: 'Home',
-  created() {
+  mounted() {
     // eslint-disable-next-line no-new
     new TypeIt('#pageTitle', {
       // eslint-disable-next-line quotes
