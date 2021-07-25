@@ -15,7 +15,7 @@ export default {
       .type(`Hi, I'm Max.`)
       .break()
       .pause(1000)
-      .type('Developer, tinkerer, and most of all - a father.')
+      .type('Developer, tinkerer. Dad joke teller.')
       .go();
   },
 };
