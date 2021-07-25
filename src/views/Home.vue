@@ -25,8 +25,5 @@ export default {
 .home {
   display: flex;
   flex-direction: column;
-
-  &__section {
-  }
 }
 </style>
