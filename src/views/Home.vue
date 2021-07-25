@@ -1,9 +1,7 @@
 <template>
   <div class="home">
     <h1 id="pageTitle"></h1>
-    <div class="home__section">
-      <p>Developer, tinkerer, and most of all - a father.</p>
-    </div>
+    <div class="home__section"></div>
   </div>
 </template>
 
