@@ -1,7 +1,6 @@
 <template>
   <div class="home">
     <h1 id="pageTitle"></h1>
-    <div class="home__section"></div>
   </div>
 </template>
 
