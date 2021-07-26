@@ -17,7 +17,7 @@ export default {
       .pause(1000)
       .type('Developer. Tinkerer. Dad joke teller.')
       .pause(1500)
-      .type()
+      .type('Learn more about me below')
       .go();
   },
 };
