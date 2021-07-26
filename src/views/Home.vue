@@ -16,6 +16,7 @@ export default {
       .break()
       .pause(1000)
       .type('Developer. Tinkerer. Dad joke teller.')
+      .pause('Learn more about me below')
       .go();
   },
 };
