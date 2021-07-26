@@ -10,6 +10,7 @@ import TypeIt from 'typeit';
 export default {
   name: 'Home',
   mounted() {
+    // TODO: Max - is this plugin accessible?
     new TypeIt('#pageTitle')
       // eslint-disable-next-line quotes
       .type(`Hi, I'm Max.`)
