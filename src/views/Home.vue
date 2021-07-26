@@ -13,7 +13,7 @@ export default {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
       // eslint-disable-next-line quotes
-      .type(`Hi, I'm Max.`)
+      .type(`Hi, I'm Mx!`)
       .break()
       .pause(1000)
       .type('Developer. Tinkerer. Dad joke teller.')
