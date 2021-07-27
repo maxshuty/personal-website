@@ -17,6 +17,7 @@ export default {
       .pause(500)
       .move(-2)
       .type('a')
+      .pause(250)
       .break()
       .pause(1000)
       .type('Developer. Tinkerer. Dad joke teller.')
