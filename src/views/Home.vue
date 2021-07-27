@@ -15,6 +15,7 @@ export default {
       // eslint-disable-next-line quotes
       .type(`Hi, I'm Mx!`)
       .pause(500)
+      .move(-2)
       .break()
       .pause(1000)
       .type('Developer. Tinkerer. Dad joke teller.')
