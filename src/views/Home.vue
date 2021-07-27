@@ -14,6 +14,7 @@ export default {
     new TypeIt('#pageTitle')
       // eslint-disable-next-line quotes
       .type(`Hi, I'm Mx!`)
+      .pause(500)
       .break()
       .pause(1000)
       .type('Developer. Tinkerer. Dad joke teller.')
