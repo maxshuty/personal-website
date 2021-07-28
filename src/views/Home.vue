@@ -27,6 +27,7 @@ export default {
       .pause(250)
       .move(10)
       .type('.')
+      .break()
       .go();
   },
 };
