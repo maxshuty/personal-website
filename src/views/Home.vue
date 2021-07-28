@@ -24,6 +24,7 @@ export default {
       .type('Developer with a passion for accssbility')
       .move(-9)
       .type('e')
+      .pause(250)
       .go();
   },
 };
