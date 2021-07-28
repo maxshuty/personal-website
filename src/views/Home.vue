@@ -26,6 +26,7 @@ export default {
       .type('e')
       .pause(250)
       .move(10)
+      .type('.')
       .go();
   },
 };
