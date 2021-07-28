@@ -21,10 +21,7 @@ export default {
       .move(3)
       .break()
       .pause(1000)
-      .type('Developer. Tinkerer. Dad joke teller.')
-      .pause(1500)
-      .break()
-      .type('Learn more about me below')
+      .type('Developer with a passion for accssbility')
       .go();
   },
 };
