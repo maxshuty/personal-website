@@ -28,6 +28,7 @@ export default {
       .move(10)
       .type('.')
       .break()
+      .break()
       .go();
   },
 };
