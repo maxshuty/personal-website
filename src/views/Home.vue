@@ -25,6 +25,7 @@ export default {
       .move(-9)
       .type('e')
       .pause(250)
+      .move(10)
       .go();
   },
 };
