@@ -30,6 +30,7 @@ export default {
       .break()
       .break()
       .pause(1500)
+      .type('Learn more about me below')
       .go();
   },
 };
