@@ -31,6 +31,7 @@ export default {
       .break()
       .pause(1500)
       .type('Learn more about me below')
+      .pause(250)
       .go();
   },
 };
