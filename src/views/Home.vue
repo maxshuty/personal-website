@@ -33,6 +33,7 @@ export default {
       .type('Learn more about me below')
       .pause(250)
       .type('.')
+      .pause(350)
       .go();
   },
 };
