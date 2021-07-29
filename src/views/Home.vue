@@ -29,6 +29,7 @@ export default {
       .type('.')
       .break()
       .break()
+      .pause(1500)
       .go();
   },
 };
