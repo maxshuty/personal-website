@@ -30,7 +30,7 @@ export default {
       .break()
       .break()
       .pause(1500)
-      .type('Learn more about me below')
+      .type('Learn')
       .pause(250)
       .type('.')
       .pause(350)
