@@ -30,7 +30,7 @@ export default {
       .break()
       .break()
       .pause(1500)
-      .type('Learn')
+      .type('Lean')
       .pause(250)
       .type('.')
       .pause(350)
