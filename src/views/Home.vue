@@ -36,6 +36,7 @@ export default {
       .pause(350)
       .type('.')
       .pause(200)
+      .type('.')
       .go();
   },
 };
