@@ -23,6 +23,7 @@ export default {
       .pause(1000)
       .type('Bug writer')
       .delete(10)
+      .pause(500)
       .type('Developer with a passion for accssbility')
       .move(-9)
       .type('e')
