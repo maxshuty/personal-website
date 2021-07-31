@@ -34,6 +34,7 @@ export default {
       .move(-3)
       .pause(200)
       .type('r')
+      .move(4)
       .pause(250)
       .type('.')
       .pause(350)
