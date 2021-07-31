@@ -35,6 +35,7 @@ export default {
       .pause(200)
       .type('r')
       .move(4)
+      .type(' more about me below')
       .pause(250)
       .type('.')
       .pause(350)
