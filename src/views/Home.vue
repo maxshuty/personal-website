@@ -31,7 +31,7 @@ export default {
       .break()
       .pause(1500)
       .type('Lean')
-      .move(-2)
+      .move(-3)
       .pause(200)
       .type('r')
       .pause(250)
