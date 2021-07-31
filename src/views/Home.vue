@@ -21,6 +21,7 @@ export default {
       .move(3)
       .break()
       .pause(1000)
+      .type('Bug writer')
       .type('Developer with a passion for accssbility')
       .move(-9)
       .type('e')
