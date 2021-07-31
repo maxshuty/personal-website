@@ -33,6 +33,7 @@ export default {
       .type('Lean')
       .move(-2)
       .pause(200)
+      .type('r')
       .pause(250)
       .type('.')
       .pause(350)
