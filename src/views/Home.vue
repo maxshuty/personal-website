@@ -13,6 +13,7 @@ export default {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
       .type('Professional bug writer')
+      .delete(23)
       // eslint-disable-next-line quotes
       .type(`Hi, I'm Mx!`)
       .pause(500)
