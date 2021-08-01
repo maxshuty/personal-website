@@ -14,7 +14,7 @@ export default {
     new TypeIt('#pageTitle')
       .type('Professional bug writer')
       .delete(23)
-      .pause(600)
+      .pause(1000)
       // eslint-disable-next-line quotes
       .type(`Hi, I'm Mx!`)
       .pause(500)
