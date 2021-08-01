@@ -12,7 +12,7 @@ export default {
   mounted() {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
-      .type('bug write')
+      .type('Professional bug write')
       // eslint-disable-next-line quotes
       .type(`Hi, I'm Mx!`)
       .pause(500)
