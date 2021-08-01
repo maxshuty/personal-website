@@ -42,6 +42,7 @@ export default {
       .type('.')
       .pause(200)
       .type('.')
+      .cursor(false)
       .go();
   },
 };
