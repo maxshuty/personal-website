@@ -1,9 +1,6 @@
 <template>
   <div class="home">
-    <h1
-      class="home__titleContainer"
-      aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Learn more about me below..."
-    >
+    <h1 class="home__titleContainer">
       <span aria-hidden="true" id="pageTitle" />
     </h1>
   </div>
