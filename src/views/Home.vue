@@ -1,6 +1,11 @@
 <template>
   <div class="home">
-    <h1 id="pageTitle" />
+    <h1
+      class="home__titleContainer"
+      aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Learn more about me below..."
+    >
+      <span aria-hidden="true" id="pageTitle" />
+    </h1>
   </div>
 </template>
 
@@ -14,7 +19,7 @@ export default {
     new TypeIt('#pageTitle')
       .type('Professional bug writer.')
       .pause(500)
-      .delete(23)
+      .delete(24)
       .pause(1000)
       // eslint-disable-next-line quotes
       .type(`Hi, I'm Mx!`)
