@@ -12,7 +12,7 @@ export default {
   mounted() {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
-      .type('Professional bug writer')
+      .type('Professional bug writer.')
       .pause(500)
       .delete(23)
       .pause(1000)
