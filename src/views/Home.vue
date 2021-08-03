@@ -38,6 +38,7 @@ export default {
       .type('.')
       .break()
       .break()
+      .break()
       .pause(1500)
       .type('Lean')
       .move(-3)
