@@ -37,6 +37,7 @@ export default {
       .move(10)
       .type('.')
       .break()
+      .type('Dad')
       .break()
       .break()
       .pause(1500)
