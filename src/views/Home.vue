@@ -34,6 +34,7 @@ export default {
       .move(-9)
       .type('e')
       .pause(250)
+      .move(2)
       .type('.')
       .break()
       .type('Dad joke teller.')
