@@ -37,6 +37,7 @@ export default {
       .move(2)
       .type('i')
       .pause(300)
+      .move(6)
       .type('.')
       .break()
       .type('Dad joke teller.')
