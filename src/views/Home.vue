@@ -2,7 +2,7 @@
   <div class="home">
     <h1
       class="home__titleContainer"
-      aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Learn more about me below..."
+      aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
     >
       <span aria-hidden="true" id="pageTitle" />
     </h1>
@@ -34,7 +34,6 @@ export default {
       .move(-9)
       .type('e')
       .pause(250)
-      .move(10)
       .type('.')
       .break()
       .type('Dad joke teller.')
@@ -42,10 +41,10 @@ export default {
       .break()
       .pause(1500)
       .type('Lean')
-      .move(-3)
+      .move(-1)
       .pause(200)
       .type('r')
-      .move(4)
+      .move(2)
       .type(' more about me below')
       .pause(250)
       .type('.')
