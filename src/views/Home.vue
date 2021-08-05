@@ -52,6 +52,7 @@ export default {
       .move(2)
       .type(' more about me belw')
       .pause(250)
+      .pause(250)
       .type('.')
       .pause(350)
       .type('.')
