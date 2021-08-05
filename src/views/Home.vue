@@ -53,6 +53,7 @@ export default {
       .type(' more about me belw')
       .pause(250)
       .move(-1)
+      .type('o')
       .pause(250)
       .type('.')
       .pause(350)
