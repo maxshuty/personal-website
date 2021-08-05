@@ -55,6 +55,7 @@ export default {
       .move(-1)
       .type('o')
       .pause(300)
+      .move(2)
       .pause(250)
       .type('.')
       .pause(350)
