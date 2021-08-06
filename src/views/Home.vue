@@ -65,6 +65,7 @@ export default {
       .type('.')
       .go();
   },
+  destroyed() {},
 };
 </script>
 
