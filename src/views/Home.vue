@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home" id="home">
     <h1
       class="home__titleContainer"
       aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
@@ -11,6 +11,7 @@
 
 <script>
 import TypeIt from 'typeit';
+import BIRDS from 'vanta/dist/vanta.birds.min';
 
 export default {
   name: 'Home',
