@@ -65,7 +65,9 @@ export default {
       .type('.')
       .go();
   },
-  destroyed() {},
+  destroyed() {
+    this.vantaBirds.destroy();
+  },
 };
 </script>
 
