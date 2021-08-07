@@ -15,6 +15,7 @@ import BIRDS from 'vanta/dist/vanta.birds.min';
 
 export default {
   name: 'Home',
+  data() {},
   mounted() {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
