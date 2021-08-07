@@ -20,7 +20,9 @@ export default {
       vantaBirds: null,
     };
   },
-  created() {},
+  created() {
+    this.vantaBirds = BIRDS();
+  },
   mounted() {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
