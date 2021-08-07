@@ -21,7 +21,9 @@ export default {
     };
   },
   created() {
-    this.vantaBirds = BIRDS();
+    this.vantaBirds = BIRDS({
+      el: '#home',
+    });
   },
   mounted() {
     // TODO: Max - is this plugin accessible? If not then make it so
