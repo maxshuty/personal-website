@@ -32,6 +32,7 @@ export default {
       .move(-2)
       .type('e')
       .pause(250)
+      .move(3)
       .pause(500)
       .delete(24)
       .pause(1000)
