@@ -30,6 +30,7 @@ export default {
     new TypeIt('#pageTitle')
       .type('Professional bug writr.')
       .move(-2)
+      .type('e')
       .pause(500)
       .delete(24)
       .pause(1000)
