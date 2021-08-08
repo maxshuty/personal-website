@@ -29,6 +29,7 @@ export default {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
       .type('Professional bug writr.')
+      .move(-2)
       .pause(500)
       .delete(24)
       .pause(1000)
