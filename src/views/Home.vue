@@ -31,6 +31,7 @@ export default {
       .type('Professional bug writr.')
       .move(-2)
       .type('e')
+      .pause(250)
       .pause(500)
       .delete(24)
       .pause(1000)
