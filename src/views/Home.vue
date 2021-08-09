@@ -102,5 +102,6 @@ export default {
 .home {
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 </style>
