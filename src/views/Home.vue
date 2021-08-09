@@ -11,7 +11,6 @@
 
 <script>
 import TypeIt from 'typeit';
-import BIRDS from 'vanta/dist/vanta.birds.min';
 
 export default {
   name: 'Home',
@@ -20,19 +19,10 @@ export default {
       vantaBirds: null,
     };
   },
-  created() {
-    this.vantaBirds = BIRDS({
-      el: '#home',
-    });
-  },
   mounted() {
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
-      .type('Professional bug writr.')
-      .move(-2)
-      .type('e')
-      .pause(250)
-      .move(3)
+      .type('Professional bug writer.')
       .pause(500)
       .delete(24)
       .pause(1000)
