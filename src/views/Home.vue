@@ -69,7 +69,7 @@ export default {
       .type('.')
       .go();
   },
-  destroyed() {
+  unmounted() {
     this.vantaBirds.destroy();
   },
 };
