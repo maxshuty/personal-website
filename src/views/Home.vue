@@ -1,5 +1,5 @@
 <template>
-  <div class="home" id="home">
+  <div class="home">
     <h1
       class="home__titleContainer"
       aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
@@ -20,6 +20,29 @@ export default {
     };
   },
   mounted() {
+    // There is a bug with the npm vanta package that prevents it from working
+    // in Vue apps. So we are using a script import in the index.html instead
+    // eslint-disable-next-line no-undef
+    this.vantaBirds = VANTA.BIRDS({
+      el: '#vantaBirds',
+      mouseControls: true,
+      touchControls: true,
+      minHeight: 200.0,
+      minWidth: 200.0,
+      scale: 1.0,
+      scaleMobile: 1.0,
+      backgroundColor: 0xffffff,
+      color1: 0x828282,
+      color2: 0x9ba4a4,
+      birdSize: 1.7,
+      wingSpan: 29.0,
+      speedLimit: 2.0,
+      separation: 43.0,
+      alignment: 23.0,
+      quantity: 3.0,
+      backgroundAlpha: 0.29,
+    });
+
     // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
       .type('Professional bug writer.')
