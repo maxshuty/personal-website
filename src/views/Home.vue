@@ -80,7 +80,7 @@ export default {
       .move(2)
       .type(' more about me belw')
       .pause(250)
-      .move(-1)
+      .move(-2)
       .type('o')
       .pause(300)
       .move(2)
