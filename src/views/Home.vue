@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home" id="vantaBirds">
     <h1
       class="home__titleContainer"
       aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
