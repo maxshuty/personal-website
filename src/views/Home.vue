@@ -43,7 +43,6 @@ export default {
       backgroundAlpha: 0.29,
     });
 
-    // TODO: Max - is this plugin accessible? If not then make it so
     new TypeIt('#pageTitle')
       .type('Professional bug writer.')
       .pause(500)
