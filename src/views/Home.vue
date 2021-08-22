@@ -44,6 +44,7 @@ export default {
       backgroundAlpha: 0.29,
     });
 
+    // TODO: Max P - move to separate JS file
     new TypeIt('#pageTitle')
       .type('Professional bug writer.')
       .pause(500)
