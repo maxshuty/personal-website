@@ -10,6 +10,7 @@
 </template>
 
 <script>
+// TODO: Max P - move to separate JS file
 import TypeIt from 'typeit';
 
 export default {
