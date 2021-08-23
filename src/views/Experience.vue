@@ -1,4 +1,4 @@
 <template>
-  <div>
+  <div class="experience">
   </div>
 </template>
