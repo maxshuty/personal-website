@@ -21,6 +21,7 @@ export default {
     };
   },
   mounted() {
+    // TODO: Max P - move to separate JS file
     // There is a bug with the npm vanta package that prevents it from working
     // in Vue apps. So we are using a script import in the index.html instead
     // eslint-disable-next-line no-undef
