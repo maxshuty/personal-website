@@ -18,6 +18,7 @@ const routes = [
   {
     path: '/experience',
     name: 'Experience',
+    component: () => import('../views/Experience.vue'),
   },
 ];
 
