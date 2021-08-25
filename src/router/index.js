@@ -17,6 +17,7 @@ const routes = [
   },
   {
     path: '/experience',
+    name: 'Experience',
   },
 ];
 
