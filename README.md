@@ -1,5 +1,5 @@
 This is still very much a WIP - but will become personal website.
-Built using Vu
+Built using Vue
 
 ## Naming conventions in project:
 
