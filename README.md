@@ -1,4 +1,5 @@
 This is still very much a WIP - but will become personal website.
+Built
 
 ## Naming conventions in project:
 
