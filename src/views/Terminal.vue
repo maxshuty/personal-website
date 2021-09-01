@@ -1,4 +1,4 @@
 <template>
-  <div class="">
+  <div class="t">
   </div>
 </template>
