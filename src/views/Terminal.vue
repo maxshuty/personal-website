@@ -1,3 +1,3 @@
 <template>
-  <div class="ter"></div>
+  <div class="term"></div>
 </template>
