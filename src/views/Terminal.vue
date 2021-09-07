@@ -1,3 +1,3 @@
 <template>
-  <div class="terminal">E</div>
+  <div class="terminal">Ex</div>
 </template>
