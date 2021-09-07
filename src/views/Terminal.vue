@@ -1,3 +1,3 @@
 <template>
-  <div class="terminal">Exa</div>
+  <div class="terminal">Exam</div>
 </template>
