@@ -2,4 +2,4 @@
   <div class="terminal">Example</div>
 </template>
 
-<scri></scri>
+<scrip></scrip>
