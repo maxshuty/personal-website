@@ -2,4 +2,5 @@
   <div class="terminal">Example</div>
 </template>
 
-<script></script>
+<script>
+</script>
