@@ -3,5 +3,5 @@
 </template>
 
 <script>
-ex
+exp
 </script>
