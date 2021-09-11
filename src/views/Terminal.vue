@@ -3,5 +3,5 @@
 </template>
 
 <script>
-export de
+export def
 </script>
