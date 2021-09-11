@@ -3,5 +3,5 @@
 </template>
 
 <script>
-export d
+export de
 </script>
