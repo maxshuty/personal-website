@@ -3,5 +3,5 @@
 </template>
 
 <script>
-export defa
+export default {};
 </script>
