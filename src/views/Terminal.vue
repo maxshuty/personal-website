@@ -3,5 +3,5 @@
 </template>
 
 <script>
-expor
+export d
 </script>
