@@ -7,3 +7,5 @@ export default {
   name: 'terminal',
 };
 </script>
+
+<
