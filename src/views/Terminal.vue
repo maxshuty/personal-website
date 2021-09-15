@@ -8,4 +8,4 @@ export default {
 };
 </script>
 
-<style lan></style>
+<style lang></style>
