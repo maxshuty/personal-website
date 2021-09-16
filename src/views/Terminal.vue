@@ -8,4 +8,4 @@ export default {
 };
 </script>
 
-<style lang="scss" sco></style>
+<style lang="scss" scop></style>
