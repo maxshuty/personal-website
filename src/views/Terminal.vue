@@ -8,4 +8,4 @@ export default {
 };
 </script>
 
-<style lang="s"></style>
+<style lang="sc"></style>
