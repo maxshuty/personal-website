@@ -10,6 +10,6 @@ export default {
 
 <style lang="scss" scoped>
 .Terminal {
-  background-color: #;
+  background-color: #3;
 }
 </style>
