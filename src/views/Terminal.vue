@@ -11,5 +11,6 @@ export default {
 <style lang="scss" scoped>
 .Terminal {
   background-color: #3a3b3c;
+  height:
 }
 </style>
