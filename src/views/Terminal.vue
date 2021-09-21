@@ -12,5 +12,6 @@ export default {
 .Terminal {
   background-color: #3a3b3c;
   height: 100%;
+  w
 }
 </style>
