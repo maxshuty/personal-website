@@ -10,7 +10,7 @@ export default {
 
 <style lang="scss" scoped>
 .Terminal {
-  color: #f
+  color: #ff
   background-color: #3a3b3c;
   height: 100%;
   width: 100%;
