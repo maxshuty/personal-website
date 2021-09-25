@@ -1,20 +1,25 @@
 <template>
-  <div class="home" id="vantaBirds">
-    <h1
-      class="home__titleContainer"
-      aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
-    >
-      <span aria-hidden="true" id="pageTitle" />
-    </h1>
+  <div>
+    <terminal-comp />
+    <div class="home" id="vantaBirds">
+      <h1
+        class="home__titleContainer"
+        aria-label="Hi, I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
+      >
+        <span aria-hidden="true" id="pageTitle" />
+      </h1>
+    </div>
   </div>
 </template>
 
 <script>
 // TODO: Max P - move to separate JS file
 import TypeIt from 'typeit';
+import TerminalComp from '../components/ui/TerminalComp.vue';
 
 export default {
   name: 'Home',
+  components: { TerminalComp },
   data() {
     return {
       vantaBirds: null,
