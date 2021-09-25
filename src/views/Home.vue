@@ -1,7 +1,7 @@
 <template>
   <div>
-    <terminal-comp />
-    <div class="home" id="vantaBirds">
+    <terminal-comp v-if="true" />
+    <div v-else class="home" id="vantaBirds">
       <h1
         class="home__titleContainer"
         aria-label="Hi I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
