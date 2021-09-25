@@ -1,5 +1,5 @@
 <template>
-  <div class="terminal">Example</div>
+  <div class="terminal">terminal</div>
 </template>
 
 <script>
@@ -9,10 +9,12 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.Terminal {
+.terminal {
+  position: absolute;
+  top: 0;
   color: #ffffff;
   background-color: #3a3b3c;
-  height: 100%;
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
 }
 </style>
