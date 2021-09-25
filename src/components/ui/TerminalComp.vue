@@ -12,9 +12,10 @@ export default {
 .terminal {
   position: absolute;
   top: 0;
-  color: #ffffff;
-  background-color: #3a3b3c;
   height: 100vh;
   width: 100vw;
+  overflow: hidden;
+  color: #ffffff;
+  background-color: #3a3b3c;
 }
 </style>
