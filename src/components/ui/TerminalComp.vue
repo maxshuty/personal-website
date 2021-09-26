@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="terminal">
     <h1>terminal</h1>
     <input type="text" />
   </div>
