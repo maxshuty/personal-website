@@ -1,7 +1,9 @@
 <template>
   <div class="terminal">
     <h1>terminal</h1>
-    <div></div>
+    <div>
+      <input type="text" />
+    </div>
   </div>
 </template>
 
