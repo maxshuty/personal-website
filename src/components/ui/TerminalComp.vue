@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="terminal">terminal</div>
+    <h1>terminal</h1>
     <input type="text" />
   </div>
 </template>
