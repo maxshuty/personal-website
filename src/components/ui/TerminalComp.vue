@@ -2,7 +2,7 @@
   <div class="terminal">
     <h1>terminal</h1>
     <div>
-      <span class="terminal__">Max-Poshusta:~</span>
+      <span class="terminal__">Max-Poshusta:~ website$ </span>
       <input type="text" />
     </div>
   </div>
