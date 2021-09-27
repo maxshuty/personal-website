@@ -2,6 +2,7 @@
   <div class="terminal">
     <h1>terminal</h1>
     <div>
+      <span class="terminal__"></span>
       <input type="text" />
     </div>
   </div>
