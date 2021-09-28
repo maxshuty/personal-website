@@ -25,6 +25,7 @@ export default {
   background-color: #3a3b3c;
 
   &__input {
+    // TODO: Max P - accessibilty of this input
     background: none;
     border: none;
     color: #ffffff;
