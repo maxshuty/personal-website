@@ -3,7 +3,7 @@
     <h1>terminal</h1>
     <div>
       <span class="terminal__message">Max-Poshusta:~ website$ </span>
-      <input type="text" />
+      <input type="text" class="" />
     </div>
   </div>
 </template>
