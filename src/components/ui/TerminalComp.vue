@@ -26,6 +26,7 @@ export default {
 
   &__input {
     background: none;
+    border: none;
   }
 }
 </style>
