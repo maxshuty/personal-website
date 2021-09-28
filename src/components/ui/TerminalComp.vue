@@ -25,7 +25,7 @@ export default {
   background-color: #3a3b3c;
 
   &__input {
-    
+    background: none;
   }
 }
 </style>
