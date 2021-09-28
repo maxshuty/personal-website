@@ -23,5 +23,9 @@ export default {
   overflow: hidden;
   color: #ffffff;
   background-color: #3a3b3c;
+
+  &__input {
+    
+  }
 }
 </style>
