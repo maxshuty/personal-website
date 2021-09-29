@@ -23,6 +23,7 @@ export default {
   overflow: hidden;
   color: #ffffff;
   background-color: #3a3b3c;
+  font-family: Menlo;
 
   &__input {
     // TODO: Max P - accessibilty of this input
