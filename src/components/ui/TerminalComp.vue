@@ -31,6 +31,7 @@ export default {
     color: #ffffff;
 
     &:focus {
+      outline: none;
     }
   }
 }
