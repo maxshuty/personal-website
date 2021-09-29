@@ -29,6 +29,9 @@ export default {
     background: none;
     border: none;
     color: #ffffff;
+
+    &:focus {
+    }
   }
 }
 </style>
