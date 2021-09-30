@@ -11,6 +11,9 @@
 <script>
 export default {
   name: 'terminal-comp',
+  data() {
+    
+  }
 };
 </script>
 
@@ -23,7 +26,8 @@ export default {
   overflow: hidden;
   color: #ffffff;
   background-color: #3a3b3c;
-  font-family: Menlo, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: Menlo, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
   &__input {
     // TODO: Max P - accessibilty of this input
