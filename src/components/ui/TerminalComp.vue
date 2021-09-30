@@ -3,7 +3,7 @@
     <h1>terminal</h1>
     <div>
       <span class="terminal__message">Max-Poshusta:~ website$ </span>
-      <input type="text" class="terminal__input" />
+      <input v-model="" type="text" class="terminal__input" />
     </div>
   </div>
 </template>
