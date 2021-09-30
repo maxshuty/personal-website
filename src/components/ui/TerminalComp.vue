@@ -12,8 +12,10 @@
 export default {
   name: 'terminal-comp',
   data() {
-    
-  }
+    return {
+      terminalCommand: '',
+    };
+  },
 };
 </script>
 
