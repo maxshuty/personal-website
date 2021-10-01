@@ -17,7 +17,9 @@ export default {
     };
   },
   methods: {
-    executeCommand() {},
+    executeCommand() {
+      debugger;
+    },
   },
 };
 </script>
