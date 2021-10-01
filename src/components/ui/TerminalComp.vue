@@ -16,7 +16,9 @@ export default {
       terminalCommand: '',
     };
   },
-  methods: {},
+  methods: {
+    executeCommand() {},
+  },
 };
 </script>
 
