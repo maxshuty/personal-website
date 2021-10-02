@@ -27,6 +27,8 @@ export default {
       switch (command.toLowerCase()) {
         case 'help':
           break;
+        default:
+          break;
       }
     },
   },
