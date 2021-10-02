@@ -20,6 +20,9 @@ export default {
     executeCommand(command) {
       // TODO: Max P - implement command execution
       debugger;
+      if (!command) {
+        return;
+      }
     },
   },
 };
