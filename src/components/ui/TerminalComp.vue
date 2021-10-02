@@ -17,7 +17,7 @@ export default {
     };
   },
   methods: {
-    executeCommand() {
+    executeCommand(command) {
       // TODO: Max P - implement command execution
       debugger;
     },
