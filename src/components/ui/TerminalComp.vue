@@ -23,6 +23,11 @@ export default {
       if (!command) {
         return;
       }
+
+      switch (command.toLowerCase()) {
+        case 'help':
+          break;
+      }
     },
   },
 };
