@@ -29,8 +29,8 @@ export default {
 
       switch (this.terminalCommand.toLowerCase()) {
         case 'help':
-          this.$router.push({ to: '/' });
           break;
+
         default:
           break;
       }
