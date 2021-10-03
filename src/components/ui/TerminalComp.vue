@@ -3,7 +3,12 @@
     <h1>terminal</h1>
     <div>
       <span class="terminal__message">Max-Poshusta:~ website$ </span>
-      <input v-model="terminalCommand" type="text" class="terminal__input" />
+      <input
+        v-model="terminalCommand"
+        @change="executeCommand"
+        type="text"
+        class="terminal__input"
+      />
     </div>
   </div>
 </template>
