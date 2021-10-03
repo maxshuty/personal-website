@@ -17,13 +17,14 @@ export default {
     };
   },
   methods: {
-    executeCommand(command) {
-      if (!command) {
+    executeCommand() {
+      if (!this.terminalCommand) {
         return;
       }
 
-      switch (command.toLowerCase()) {
+      switch (this.terminalCommand.toLowerCase()) {
         case 'help':
+          this.$router.push({ to: '/' });
           break;
         default:
           break;
