@@ -1,6 +1,6 @@
 <template>
   <div>
-    <terminal-comp v-if="true" />
+    <terminal-comp v-if="false" />
     <div v-else class="home" id="vantaBirds">
       <h1
         class="home__titleContainer"
