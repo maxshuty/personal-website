@@ -18,8 +18,6 @@ export default {
   },
   methods: {
     executeCommand(command) {
-      // TODO: Max P - implement command execution
-      debugger;
       if (!command) {
         return;
       }
