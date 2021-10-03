@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: 'terminal-comp',
+  name: 'terminal',
   data() {
     return {
       terminalCommand: '',
