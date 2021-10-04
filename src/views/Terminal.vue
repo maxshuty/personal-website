@@ -37,6 +37,8 @@ export default {
         default:
           break;
       }
+
+      this.previousCommands.push(this.terminalCommand);
     },
   },
 };
