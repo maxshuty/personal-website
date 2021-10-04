@@ -31,7 +31,7 @@ export default {
         case 'help':
           break;
         case 'mk website':
-          this.$router.push({ to: '/' });
+          this.$router.push({ name: 'Home' });
           break;
         default:
           break;
