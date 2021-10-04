@@ -1,7 +1,6 @@
 <template>
   <div>
-    <terminal-comp v-if="false" />
-    <div v-else class="home" id="vantaBirds">
+    <div class="home" id="vantaBirds">
       <h1
         class="home__titleContainer"
         aria-label="Hi I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
@@ -15,17 +14,17 @@
 <script>
 // TODO: Max P - move to separate JS file
 import TypeIt from 'typeit';
-import TerminalComp from '../components/ui/TerminalComp.vue';
 
 export default {
   name: 'Home',
-  components: { TerminalComp },
   data() {
     return {
       vantaBirds: null,
     };
   },
   mounted() {
+    // TODO: Max P - make the Vanta instance dyanmic and able to be selected from terminal
+    // ie: "mk website --background birds" or "mk website --background waves", etc...
     // TODO: Max P - move to separate JS file
     // There is a bug with the npm vanta package that prevents it from working
     // in Vue apps. So we are using a script import in the index.html instead
