@@ -18,6 +18,7 @@ export default {
   name: 'terminal',
   data() {
     return {
+      previousCommands: [],
       terminalCommand: '',
     };
   },
