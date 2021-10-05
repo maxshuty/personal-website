@@ -3,6 +3,7 @@
     <h1>terminal</h1>
     <div>
       <p v-for="(command, index) in previousCommands" :key="index">
+        {{ command }}
       </p>
       <span class="terminal__message">Max-Poshusta:~ website$ </span>
       <input
@@ -52,6 +53,7 @@ export default {
   top: 0;
   height: 100vh;
   width: 100vw;
+  padding: 1em;
   overflow: hidden;
   color: #ffffff;
   background-color: #3a3b3c;
