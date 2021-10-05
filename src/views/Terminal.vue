@@ -3,9 +3,9 @@
     <h1>terminal</h1>
     <div>
       <p v-for="(command, index) in previousCommands" :key="index">
-        {{ command }}
+        {{ `${terminalDirectoryText} ${command}` }}
       </p>
-      <span class="terminal__message">Max-Poshusta:~ website$ </span>
+      <span class="terminal__message">{{ terminalDirectoryText }}</span>
       <input
         v-model="terminalCommand"
         @change="executeCommand"
@@ -24,6 +24,11 @@ export default {
       previousCommands: [],
       terminalCommand: '',
     };
+  },
+  computed: {
+    terminalDirectoryText() {
+      return 'Max-Poshusta:~ website$ ';
+    },
   },
   methods: {
     executeCommand() {
