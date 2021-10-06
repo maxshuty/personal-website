@@ -110,5 +110,6 @@ export default {
   flex-direction: column;
   height: 100vh;
   width: 100%;
+  text-align: center;
 }
 </style>
