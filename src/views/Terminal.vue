@@ -32,6 +32,8 @@ export default {
   },
   methods: {
     executeCommand() {
+      // TODO: Max P - up and dxown arrow keypresses
+
       if (!this.terminalCommand) {
         return;
       }
