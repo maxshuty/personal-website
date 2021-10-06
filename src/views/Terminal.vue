@@ -74,6 +74,7 @@ export default {
     background: none;
     border: none;
     color: #ffffff;
+    font-size: 16px;
 
     &:focus {
       outline: none;
