@@ -11,6 +11,7 @@
         @change="executeCommand"
         type="text"
         class="terminal__input"
+        autofocus
       />
     </div>
   </div>
