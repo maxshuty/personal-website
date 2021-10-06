@@ -50,6 +50,7 @@ export default {
       }
 
       this.previousCommands.push(this.terminalCommand);
+      this.terminalCommand = '';
     },
   },
 };
