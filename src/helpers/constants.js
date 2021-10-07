@@ -1,4 +1,7 @@
 export const Commands = Object.freeze({
+  // TODO: Max P - update Vue Router to dynamically generate the routes and use a constant
+  // to do that, then in the values here use the same constant. That way when a new route is
+  // added it will automatically be updated in this values list.
   MK_WEBSITE: {
     command: 'mk website',
     description: `
