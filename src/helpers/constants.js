@@ -9,7 +9,7 @@ export const Commands = Object.freeze({
     optional '--go' param with one of it's values to navigate directly
     to any page.
     `,
-    options: [{ prefix: '--go', values: ['about', 'experience', 'home'] }],
+    options: [{ key: '--go', values: ['about', 'experience', 'home'] }],
   },
 });
 
