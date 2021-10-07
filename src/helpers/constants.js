@@ -1,4 +1,4 @@
-export const HelpDirectory = Object.freeze({
+export const Commands = Object.freeze({
   MK_WEBSITE: {
     command: 'mk website',
     description: 'creates a graphical user interface (GUI) of this website',
@@ -7,5 +7,5 @@ export const HelpDirectory = Object.freeze({
 });
 
 export default {
-  HelpDirectory,
+  Commands,
 };
