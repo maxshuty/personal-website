@@ -18,6 +18,8 @@
 </template>
 
 <script>
+import { Commands } from '@/helpers/constants';
+
 export default {
   name: 'terminal',
   data() {
