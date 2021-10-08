@@ -1,5 +1,6 @@
 export const Commands = Object.freeze({
   HELP: {
+    expression: 'help',
   }
   // TODO: Max P - update Vue Router to dynamically generate the routes and use a constant
   // to do that, then in the values here use the same constant. That way when a new route is
