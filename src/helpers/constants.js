@@ -17,7 +17,7 @@ export const Commands = Object.freeze({
   },
   GET: {
     expression: 'get',
-    description: 'gets specified item',
+    description: 'gets specified resource',
     options: [{ key: '--file', values: ['resume'] }],
   },
 });
