@@ -15,7 +15,9 @@ export const Commands = Object.freeze({
     `,
     options: [{ key: '--go', values: ['about', 'experience', 'home'] }],
   },
-  GET: {},
+  GET: {
+    expression: 'get',
+  },
 });
 
 export default {
