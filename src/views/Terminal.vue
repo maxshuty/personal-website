@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import { Commands } from '@/helpers/constants.js';
+import { Commands } from '../helpers/constants.js';
 
 export default {
   name: 'terminal',
