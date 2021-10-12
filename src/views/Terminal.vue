@@ -41,7 +41,7 @@ export default {
       }
 
       switch (this.terminalCommand.toLowerCase()) {
-        case Commands.HELP:
+        case Commands.HELP.expression:
           break;
         case Commands.MK_WEBSITE.expression:
           this.$router.push({ name: 'Home' });
