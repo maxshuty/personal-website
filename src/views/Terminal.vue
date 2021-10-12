@@ -48,6 +48,7 @@ export default {
           this.$router.push({ name: 'Home' });
           break;
         default:
+          // Staying put where we are
           break;
       }
 
