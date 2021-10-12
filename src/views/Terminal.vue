@@ -40,6 +40,7 @@ export default {
         return;
       }
 
+      // TODO: Max P - allow params for the expression
       switch (this.terminalCommand.toLowerCase()) {
         case Commands.HELP.expression:
           break;
