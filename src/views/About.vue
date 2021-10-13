@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>Filler</h1>
+    <h1>Max Poshusta</h1>
   </div>
 </template>
