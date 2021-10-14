@@ -9,5 +9,6 @@
       application I had ever worked on was accessible. I was literally
       preventing people from using applications due to my ignorance.
     </p>
+    <p></p>
   </div>
 </template>
