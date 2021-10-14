@@ -6,7 +6,8 @@
       simply not caring about accessibility until one day that I went to a park.
       The park was completely accessible with wheel chair capable
       merry-go-rounds to swings and zip-lines. I had an epiphany - not a single
-      application I had ever worked on was accessible.
+      application I had ever worked on was accessible. I was literally
+      preventing people from using applications due to my ignorance.
     </p>
   </div>
 </template>
