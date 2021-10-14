@@ -7,7 +7,7 @@
       The park was completely accessible with wheel chair capable
       merry-go-rounds to swings and zip-lines. I had an epiphany - not a single
       application I had ever worked on was accessible. I was literally
-      preventing people from using applications I had built due to my ignorance.
+      preventing people from using applications I had built due to my own ignorance.
     </p>
     <p></p>
   </div>
