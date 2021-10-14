@@ -10,6 +10,9 @@
       preventing people from using applications I had built due to my own
       ignorance.
     </p>
-    <p>After this realization I took it upon myself to change my ways.</p>
+    <p>
+      After this realization I took it upon myself to change my ways.
+      To be an advocate for acessibility. 
+    </p>
   </div>
 </template>
