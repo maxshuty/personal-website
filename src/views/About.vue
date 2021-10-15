@@ -12,7 +12,7 @@
     </p>
     <p>
       After this realization I took it upon myself to change my ways...
-      To be an advocate for acessibility. Both on teams I was a part of
+      To be an advocate for acessibility both on teams I was a part of
       and personal projects.
     </p>
   </div>
