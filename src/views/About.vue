@@ -16,5 +16,6 @@
       their applications accessible both at work and through contributions
       online.
     </p>
+    <p>Born in 1989 in Rochester Minnesota</p>
   </div>
 </template>
