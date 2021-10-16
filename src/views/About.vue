@@ -12,7 +12,8 @@
     </p>
     <p>
       After this realization I took it upon myself to change my ways... To be an
-      advocate for accessibility.
+      advocate for accessibility. To help advocate for other developers to make
+      their applications accessible
     </p>
   </div>
 </template>
