@@ -12,8 +12,7 @@
     </p>
     <p>
       After this realization I took it upon myself to change my ways... To be an
-      advocate for accessibility both on teams I was a part of and personal
-      projects.
+      advocate for accessibility.
     </p>
   </div>
 </template>
