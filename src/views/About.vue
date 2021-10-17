@@ -31,6 +31,7 @@
 <style lang="scss" scoped>
 .about {
   display: flex;
+  flex-direction: column;
   max-width: 1000px;
   text-align: center;
 }
