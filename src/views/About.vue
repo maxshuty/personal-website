@@ -30,6 +30,7 @@
 
 <style lang="scss" scoped>
 .about {
+  max-width: 1000px;
   text-align: center;
 }
 </style>
