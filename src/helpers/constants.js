@@ -20,6 +20,8 @@ export const Commands = Object.freeze({
     description: 'gets specified resource',
     options: [{ key: '--file', values: ['resume'] }],
   },
+  GO: {
+
 });
 
 export default {
