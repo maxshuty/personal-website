@@ -22,7 +22,8 @@ export const Commands = Object.freeze({
   },
   GO: {
     expression: 'go',
-
+    description: 'goes to external website specified from options',
+ 
 });
 
 export default {
