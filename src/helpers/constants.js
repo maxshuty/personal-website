@@ -21,6 +21,7 @@ export const Commands = Object.freeze({
     options: [{ key: '--file', values: ['resume'] }],
   },
   GO: {
+    expression: 'go',
 
 });
 
