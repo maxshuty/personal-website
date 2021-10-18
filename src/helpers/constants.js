@@ -23,7 +23,12 @@ export const Commands = Object.freeze({
   GO: {
     expression: 'go',
     description: 'goes to external website specified from options',
-    options: [],
+    options: [
+      {
+        key: '--stackoverflow',
+        values: ['https://stackoverflow.com/users/4826740/maxshuty'],
+      },
+    ],
   },
 });
 
