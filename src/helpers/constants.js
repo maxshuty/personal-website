@@ -28,6 +28,7 @@ export const Commands = Object.freeze({
         key: '--stackoverflow',
         values: ['https://stackoverflow.com/users/4826740/maxshuty'],
       },
+      { key: '--github', values: ['https://github.com/maxshuty'] },
     ],
   },
 });
