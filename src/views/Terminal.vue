@@ -47,6 +47,7 @@ export default {
         case Commands.MK_WEBSITE.expression:
           this.$router.push({ name: 'Home' });
           break;
+        case Commands.GO.expression:
         default:
           // Staying put where we are
           break;
