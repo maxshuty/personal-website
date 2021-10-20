@@ -44,6 +44,7 @@ export default {
         return;
       }
 
+      // TODO: Max P - integrate the parsing
       const parseCommand = this.parseCommand();
 
       // TODO: Max P - allow params for the expression
