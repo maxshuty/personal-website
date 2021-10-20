@@ -36,6 +36,7 @@ export default {
   methods: {
     parseCommand() {
       // TODO: Max P - create parsing mechanism to spiy out an object from the command
+      debugger;
     },
     executeCommand() {
       // TODO: Max P - up and dxown arrow keypresses
