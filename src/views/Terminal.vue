@@ -44,6 +44,8 @@ export default {
         return;
       }
 
+      const parseCommand = this.parseCommand();
+
       // TODO: Max P - allow params for the expression
       switch (this.terminalCommand.toLowerCase()) {
         case Commands.HELP.expression:
@@ -52,7 +54,6 @@ export default {
           this.$router.push({ name: 'Home' });
           break;
         case Commands.GO.expression:
-          const parseCommand = this.parseCommand();
           break;
         default:
           // Staying put where we are
