@@ -35,6 +35,7 @@ export default {
   },
   methods: {
     parseCommand() {
+      // TODO: Max P - create parsing mechanism to spiy out an object from the command
     },
     executeCommand() {
       // TODO: Max P - up and dxown arrow keypresses
@@ -50,6 +51,7 @@ export default {
           this.$router.push({ name: 'Home' });
           break;
         case Commands.GO.expression:
+          const parseCommand = this.parseCommand();
           break;
         default:
           // Staying put where we are
