@@ -36,6 +36,7 @@ export default {
   methods: {
     parseCommand() {
       // TODO: Max P - create parsing mechanism to spiy out an object from the command
+
       debugger;
     },
     executeCommand() {
@@ -45,7 +46,7 @@ export default {
       }
 
       // TODO: Max P - integrate the parsing
-      const parseCommand = this.parseCommand();
+      const parsedCommand = this.parseCommand();
 
       // TODO: Max P - allow params for the expression
       switch (this.terminalCommand.toLowerCase()) {
@@ -55,6 +56,8 @@ export default {
           this.$router.push({ name: 'Home' });
           break;
         case Commands.GO.expression:
+          if (!parsedCommand.options) {
+          }
           break;
         default:
           // Staying put where we are
