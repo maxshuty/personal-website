@@ -57,6 +57,7 @@ export default {
           break;
         case Commands.GO.expression:
           if (!parsedCommand.options) {
+            // TODO: Max P - they havent provided options so show available options
           }
           break;
         default:
