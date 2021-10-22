@@ -60,7 +60,7 @@ export default {
             // TODO: Max P - they havent provided options so show available options
           }
 
-          // TODO: Max P - loop through all options and open new tab for each
+          // TODO: Max P - loop through all options and open new tab for each one
           break;
         default:
           // Staying put where we are
