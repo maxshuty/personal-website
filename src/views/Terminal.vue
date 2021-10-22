@@ -59,6 +59,8 @@ export default {
           if (!parsedCommand.options) {
             // TODO: Max P - they havent provided options so show available options
           }
+
+          // TODO: Max P - loop through all options
           break;
         default:
           // Staying put where we are
