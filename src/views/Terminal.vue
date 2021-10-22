@@ -61,6 +61,9 @@ export default {
           }
 
           // TODO: Max P - loop through all options and open new tab for each one
+          parsedCommand.options.forEach((option) => {
+            
+          });
           break;
         default:
           // Staying put where we are
