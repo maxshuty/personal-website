@@ -62,7 +62,7 @@ export default {
 
           // TODO: Max P - loop through all options and open new tab for each one
           parsedCommand.options.forEach((option) => {
-            window.open(option.value, '_blank');
+            window.open(option.value);
           });
           break;
         default:
