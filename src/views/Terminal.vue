@@ -40,7 +40,7 @@ export default {
       debugger;
     },
     executeCommand() {
-      // TODO: Max P - up and dxown arrow keypresses
+      // TODO: Max P - up and down arrow keypresses
       if (!this.terminalCommand) {
         return;
       }
