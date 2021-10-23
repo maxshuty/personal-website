@@ -35,7 +35,7 @@ export default {
   },
   methods: {
     parseCommand() {
-      // TODO: Max P - create parsing mechanism to spiy out an object from the command
+      // TODO: Max P - create parsing mechanism to parse out an object from the command
 
       debugger;
     },
