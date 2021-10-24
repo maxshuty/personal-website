@@ -36,7 +36,7 @@ export default {
   methods: {
     parseCommand() {
       // TODO: Max P - create parsing mechanism to parse out an object from the command
-
+      /* eslint-disable */
       debugger;
     },
     executeCommand() {
