@@ -11,7 +11,7 @@ export const Commands = Object.freeze({
     description: `
     creates a graphical user interface (GUI) of this website. Use the
     optional '--go' param with one of it's values to navigate directly
-    to any page.
+    to any page
     `,
     options: [{ key: '--go', values: ['about', 'experience', 'home'] }],
   },
