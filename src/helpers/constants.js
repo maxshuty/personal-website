@@ -31,6 +31,7 @@ export const Commands = Object.freeze({
       { key: '--github', values: ['https://github.com/maxshuty'] },
     ],
   },
+  HELLO: {},
 });
 
 export default {
