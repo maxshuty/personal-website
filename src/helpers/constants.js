@@ -34,6 +34,7 @@ export const Commands = Object.freeze({
   HELLO: {
     expression: 'hello max',
     description: 'goes to the contact page',
+    options: null,
   },
 });
 
