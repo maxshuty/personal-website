@@ -25,6 +25,8 @@ const routes = [
     name: 'Experience',
     component: () => import(/* webpackChunkName: "experience" */ '../views/Experience.vue'),
   },
+  {
+  },
 ];
 
 const router = createRouter({
