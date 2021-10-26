@@ -5,7 +5,7 @@
       <router-link to="/">Terminal</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/experience">Experience</router-link>
-      <router-link to="/contact"></router-link>
+      <router-link to="/contact">Contact</router-link>
     </div>
     <router-view />
   </div>
