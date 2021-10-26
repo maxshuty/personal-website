@@ -27,6 +27,7 @@ const routes = [
   },
   {
     path: '/contact',
+    name: 'Contact',
   },
 ];
 
