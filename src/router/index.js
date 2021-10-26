@@ -26,6 +26,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "experience" */ '../views/Experience.vue'),
   },
   {
+    path: '/contact',
   },
 ];
 
