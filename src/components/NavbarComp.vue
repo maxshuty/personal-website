@@ -5,5 +5,7 @@
 </template>
 
 <style lang="scss" scoped>
+.navbar {
 
+}
 </style>
