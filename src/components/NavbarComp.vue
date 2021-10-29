@@ -8,5 +8,8 @@
 .navbar {
   padding: 30px;
   text-align: center;
+    a {
+
+  }
 }
 </style>
