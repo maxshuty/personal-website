@@ -6,6 +6,6 @@
 
 <style lang="scss" scoped>
 .navbar {
-
+  padding: 30px;
 }
 </style>
