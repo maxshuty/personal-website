@@ -1,3 +1,5 @@
 <template>
-  <div class="navbar"></div>
+  <div class="navbar">
+    <h1>Filler content section.</h1>
+  </div>
 </template>
