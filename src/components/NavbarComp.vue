@@ -7,5 +7,6 @@
 <style lang="scss" scoped>
 .navbar {
   padding: 30px;
+  text-align: center;
 }
 </style>
