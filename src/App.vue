@@ -1,15 +1,13 @@
 <template>
   <div>
     <div>
-      <router-link to="/">Terminal</router-link> |
-      <router-link to="/about">About</router-link> |
-      <router-link to="/experience">Experience</router-link>
-      <router-link to="/contact">Contact</router-link>
+      <navbar-comp />
     </div>
     <router-view />
   </div>
 </template>
 
+<script></script>
 <style lang="scss">
 body {
   margin: 0;
