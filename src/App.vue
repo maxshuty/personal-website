@@ -7,7 +7,9 @@
   </div>
 </template>
 
-<script></script>
+<script>
+import NavbarComp from './components/NavbarComp.vue';
+</script>
 
 <style lang="scss">
 body {
