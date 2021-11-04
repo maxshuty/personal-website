@@ -1,6 +1,6 @@
 <template>
   <div class="navbar">
-    <h1>Filler content section.</h1>
+      <router-link to="/"></router-link>
   </div>
 </template>
 
