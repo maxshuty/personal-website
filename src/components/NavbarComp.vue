@@ -1,6 +1,6 @@
 <template>
   <div class="navbar">
-      <router-link to="/">Terminal</router-link>
+      <router-link to="/">Terminal</router-link> |
   </div>
 </template>
 
