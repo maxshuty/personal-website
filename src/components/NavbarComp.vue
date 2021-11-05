@@ -1,6 +1,7 @@
 <template>
   <div class="navbar">
-      <router-link to="/">Terminal</router-link> |
+    <router-link to="/">Terminal</router-link> |
+    <router-link to="/about"></router-link>
   </div>
 </template>
 
@@ -8,7 +9,7 @@
 .navbar {
   padding: 30px;
   text-align: center;
-    a {
+  a {
     font-weight: bold;
     color: #2c3e50;
 
