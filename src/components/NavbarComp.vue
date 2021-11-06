@@ -2,7 +2,7 @@
   <div class="navbar">
       <router-link to="/">Terminal</router-link> |
       <router-link to="/about">About</router-link> |
-      <router-link to="/"></router-link>
+      <router-link to="/experience"></router-link>
   </div>
 </template>
 
