@@ -3,6 +3,7 @@
       <router-link to="/">Terminal</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/experience">Experience</router-link> |
+      <router-link></router-link>
   </div>
 </template>
 
