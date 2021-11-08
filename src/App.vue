@@ -12,9 +12,9 @@ import NavbarComp from './components/NavbarComp.vue';
 
 export default {
   name: 'app',
-  components: [
+  components: {
     NavbarComp,
-  ],
+  },
 };
 </script>
 
