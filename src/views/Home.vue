@@ -3,7 +3,7 @@
     <div class="home" id="vantaBirds">
       <h1
         class="home__titleContainer"
-        aria-label="Hi I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me below..."
+        aria-label="Hi I'm Max! Professional bug writer and developer with a passion for accessibility. Dad joke teller. Learn more about me here..."
       >
         <span aria-hidden="true" id="pageTitle" />
       </h1>
@@ -84,10 +84,7 @@ export default {
       .pause(200)
       .type('r')
       .move(2)
-      .type(' more about me belw')
-      .pause(250)
-      .move(-2)
-      .type('o')
+
       .pause(300)
       .move(2)
       .pause(250)
