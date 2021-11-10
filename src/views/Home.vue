@@ -84,7 +84,10 @@ export default {
       .pause(200)
       .type('r')
       .move(2)
-
+      .type(' more about me hee')
+      .pause(250)
+      .move(-2)
+      .type('r')
       .pause(300)
       .move(2)
       .pause(250)
