@@ -33,6 +33,7 @@
 <style lang="scss" scoped>
 .about {
   &__content {
+    max-width: 1000px;
   }
 
   display: flex;
