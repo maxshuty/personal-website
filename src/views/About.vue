@@ -32,6 +32,9 @@
 
 <style lang="scss" scoped>
 .about {
+  &__content {
+  }
+
   display: flex;
   flex-direction: column;
   max-width: 1000px;
