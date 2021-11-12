@@ -28,7 +28,7 @@
       </div>
 
       <div>
-        <h2></h2>
+        <h2>My playlist</h2>
       </div>
     </div>
   </div>
