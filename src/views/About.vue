@@ -30,6 +30,9 @@
       <div>
         <h2>My playlist</h2>
         <p>
+          Many people claim they "listen to anything"... well my musical tastes
+          range from 90's alternative to reggae rock to heavy metal to today's
+          top hits. I would have to say reggae / reggae rock is my most played.
         </p>
       </div>
     </div>
