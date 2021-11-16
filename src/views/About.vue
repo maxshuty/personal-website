@@ -42,6 +42,7 @@
 
         <ul>
           <li>Dirty Heads - "Cabin by the sea"</li>
+          <li>Matisyahu - "Live like a warrior"</li>
         </ul>
       </div>
     </div>
