@@ -47,7 +47,7 @@
           <li>Counting Crows - "Mr. Jones"</li>
           <li>Spin Doctors - "Two Princes"</li>
           <li>Falling in Reverse - "Coming Home"</li>
-          <li>Bob Marley - "Redemption So</li>
+          <li>Bob Marley - "Redemption Son</li>
           <li>Antix - "Hands up 2"</li>
         </ul>
       </div>
