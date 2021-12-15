@@ -3,6 +3,7 @@
     <div class="about__content">
       <h1>Max Poshusta</h1>
       <p>Born in 1989 in Rochester Minnesota</p>
+      <p>Husband to an amazing Mom, Sasha and father to two awesome kids - Louie and Lucy.</p>
 
       <div>
         <h2>My journey into Computers</h2>
