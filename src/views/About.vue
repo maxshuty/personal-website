@@ -49,7 +49,7 @@
           <li>Falling in Reverse - "Coming Home"</li>
           <li>Bob Marley - "Redemption Song"</li>
           <li>Antix - "Hands up 2"</li>
-          <li>Queen - "Bohemian R</li>
+          <li>Queen - "Bohemian Rhapsody"</li>
         </ul>
       </div>
     </div>
