@@ -52,7 +52,7 @@
           <li>Bob Marley - "Redemption Song"</li>
           <li>Antix - "Hands up 2"</li>
           <li>Queen - "Bohemian Rhapsody"</li>
-          <li>Em</li>
+          <li>Eminem - "8 mile"</li>
         </ul>
       </div>
     </div>
