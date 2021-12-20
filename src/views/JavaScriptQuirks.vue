@@ -1,5 +1,7 @@
 <template>
   <div class="javascript-quirks">
+    <code>
+    </code>
   </div>
 </template>
 
