@@ -6,6 +6,14 @@
     </code>
 
     <code>
+      function whatWillIReturn() {
+        try {
+          return 'foo';
+        } catch(up) {
+          throw(up);
+        } finally {
+          return 'bar';
+        }
     </code>
   </div>
 </template>
