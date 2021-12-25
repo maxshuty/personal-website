@@ -14,6 +14,8 @@
         } finally {
           return 'bar';
         }
+
+        console.log(whatWillIReturn()); // 'bar'. Finally always executes, so the first return is thrown away
     </code>
   </div>
 </template>
