@@ -6,20 +6,12 @@
     </code>
 
     <code>
-      function whatWillIReturn() {
-        try {
-          return 'foo';
-        } catch(up) {
-          throw(up);
-        } finally {
-          return 'bar';
-        }
-
-        console.log(whatWillIReturn()); // 'bar'. Finally always executes, so the first return is thrown away
+      function whatWillIReturn() { try { return 'foo'; } catch(up) { throw(up);
+      } finally { return 'bar'; } console.log(whatWillIReturn()); // 'bar'.
+      Finally always executes, so the first return is thrown away
     </code>
 
-    <code>
-    </code>
+    <code></code>
   </div>
 </template>
 
