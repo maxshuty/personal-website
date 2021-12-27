@@ -11,7 +11,7 @@
       Finally always executes, so the first return is thrown away
     </code>
 
-    <code></code>
+    <code> 3 < 2 < 1 // true. 3 < 2 is false, and false IS less than 1! </code>
   </div>
 </template>
 
