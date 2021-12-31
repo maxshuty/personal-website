@@ -1,6 +1,6 @@
 <template>
   <div class="javascript-quirks">
-    <h1>Funny & </h1>
+    <h1>Funny & Interesting</h1>
     <code>
       ((89.99999999999999 !== 90.00000000000000) !== (89.999999999999999 !==
       90.000000000000000)) // true. Something something floats suck
