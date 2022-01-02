@@ -1,6 +1,6 @@
 <template>
   <div class="javascript-quirks">
-    <h1>Funny & Interesting JavaScript quirks I've com</h1>
+    <h1>Funny & Interesting JavaScript quirks I've</h1>
     <code>
       ((89.99999999999999 !== 90.00000000000000) !== (89.999999999999999 !==
       90.000000000000000)) // true. Something something floats suck
@@ -12,7 +12,9 @@
       Finally always executes, so the first return is thrown away
     </code>
 
-    <code> 3 &lt; 2 &lt; 1 // true. 3 &lt; 2 is false, and false IS less than 1! </code>
+    <code>
+      3 &lt; 2 &lt; 1 // true. 3 &lt; 2 is false, and false IS less than 1!
+    </code>
 
     <code>'b' + 'a' + + 'a' + 'a'</code>
   </div>
