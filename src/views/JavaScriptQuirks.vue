@@ -12,7 +12,7 @@
       Finally always executes, so the first return is thrown away
     </code>
 
-    <code> 3 < 2 < 1 // true. 3 < 2 is false, and false IS less than 1! </code>
+    <code> 3 &lt; 2 &lt; 1 // true. 3 &lt; 2 is false, and false IS less than 1! </code>
 
     <code>'b' + 'a' + + 'a' + 'a'</code>
   </div>
