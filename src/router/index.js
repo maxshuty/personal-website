@@ -21,6 +21,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue'),
   },
   {
+    path: '/javascript-quirks',
     path: '/experience',
     name: 'Experience',
     component: () => import(/* webpackChunkName: "experience" */ '../views/Experience.vue'),
