@@ -23,6 +23,7 @@ const routes = [
   {
     path: '/javascript-quirks',
     name: 'JavaScriptQuirks',
+    // Route level code-splitting
     path: '/experience',
     name: 'Experience',
     component: () => import(/* webpackChunkName: "experience" */ '../views/Experience.vue'),
