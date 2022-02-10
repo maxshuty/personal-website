@@ -22,6 +22,7 @@ const routes = [
   },
   {
     path: '/javascript-quirks',
+    name: 'JavaScriptQuirks',
     path: '/experience',
     name: 'Experience',
     component: () => import(/* webpackChunkName: "experience" */ '../views/Experience.vue'),
