@@ -2,6 +2,7 @@
   <div class="navbar">
     <router-link to="/">Terminal</router-link> |
     <router-link to="/about">About</router-link> |
+    <router-link to="/javascript-quirks">JavaScript Quirks</router-link> |
     <router-link to="/experience">Experience</router-link> |
     <router-link to="/contact">Contact</router-link>
   </div>
