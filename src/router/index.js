@@ -24,6 +24,7 @@ const routes = [
     path: '/javascript-quirks',
     name: 'JavaScriptQuirks',
     // Route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
     path: '/experience',
     name: 'Experience',
     component: () => import(/* webpackChunkName: "experience" */ '../views/Experience.vue'),
