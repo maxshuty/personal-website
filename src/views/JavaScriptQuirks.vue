@@ -3,8 +3,7 @@
     <h1>Funny & Interesting JavaScript quirks</h1>
     <p>
       <span>Something something floats suck...</span>
-    <code>
-      ((89.99999999999999 !== 90.00000000000000) !== (89.999999999999999 !==
+      <code>
       90.000000000000000)) // true. Something something floats suck
     </code>
     </p>
