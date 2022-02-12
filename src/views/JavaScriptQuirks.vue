@@ -5,6 +5,8 @@
       <span>Something something floats suck...</span>
       <code>
         ((89.99999999999999 !== 90.00000000000000) !== (89.999999999999999 !==
+        90.000000000000000)) // true
+      </code>
     </p>
     <p>
       Finally always executes, so the first return is thrown away
