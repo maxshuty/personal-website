@@ -14,7 +14,7 @@
         function whatWillIReturn() { try { return 'foo'; } catch(up) {
         throw(up); } finally { return 'bar'; } } console.log(whatWillIReturn());
         // 'bar'
-    </code>
+      </code>
 
     <code>
       3 &lt; 2 &lt; 1 // true. 3 &lt; 2 is false, and false IS less than 1!
