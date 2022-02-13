@@ -12,6 +12,7 @@
       Finally always executes, so the first return is thrown away
       <code>
         function whatWillIReturn() { try { return 'foo'; } catch(up) {
+        throw(up); } finally { return 'bar'; } } console.log(whatWillIReturn());
     </code>
 
     <code>
