@@ -15,10 +15,7 @@
         throw(up); } finally { return 'bar'; } } console.log(whatWillIReturn());
         // 'bar'
       </code>
-
-    <code>
-      3 &lt; 2 &lt; 1 // true. 3 &lt; 2 is false, and false IS less than 1!
-    </code>
+    </p>
 
     <code>'b' + 'a' + + 'a' + 'a'</code>
   </div>
