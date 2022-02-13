@@ -13,6 +13,7 @@
       <code>
         function whatWillIReturn() { try { return 'foo'; } catch(up) {
         throw(up); } finally { return 'bar'; } } console.log(whatWillIReturn());
+        // 'bar'
     </code>
 
     <code>
