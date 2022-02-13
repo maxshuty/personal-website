@@ -10,6 +10,7 @@
     </p>
     <p>
       Finally always executes, so the first return is thrown away
+      <code>
     </code>
 
     <code>
