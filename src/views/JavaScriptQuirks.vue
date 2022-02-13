@@ -11,6 +11,7 @@
     <p>
       Finally always executes, so the first return is thrown away
       <code>
+        function whatWillIReturn() { try { return 'foo'; } catch(up) {
     </code>
 
     <code>
