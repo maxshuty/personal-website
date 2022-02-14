@@ -18,6 +18,7 @@
     </p>
     <p>
       <code>
+        3 &lt; 2 &lt; 1 // true. 3 &lt; 2 is false, and false IS less than 1!
   </div>
 </template>
 
