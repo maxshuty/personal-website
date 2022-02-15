@@ -22,6 +22,7 @@
       </code>
     </p>
     <p>
+      <code>'b' + 'a' + + 'a' + 'a'</code>
   </div>
 </template>
 
