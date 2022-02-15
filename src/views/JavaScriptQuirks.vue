@@ -23,6 +23,7 @@
     </p>
     <p>
       <code>'b' + 'a' + + 'a' + 'a'</code>
+    </p>
   </div>
 </template>
 
