@@ -24,6 +24,7 @@
     <p>
       <code>'b' + 'a' + + 'a' + 'a'</code>
     </p>
+      https://stackoverflow.com/questions/69613606/why-does-javascripts-parseint0-0000005-print-5
   </div>
 </template>
 
