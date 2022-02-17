@@ -27,6 +27,7 @@
     <p>
       https://stackoverflow.com/questions/69613606/why-does-javascripts-parseint0-0000005-print-5
       parseInt(0.5); // => 0 parseInt(0.05); // => 0 parseInt(0.005); // => 0
+      parseInt(0.0005); // => 0 parseInt(0.00005); // => 0 parseInt(0.000005);
     </p>
   </div>
 </template>
